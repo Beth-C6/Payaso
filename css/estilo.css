@@ -1,0 +1,122 @@
+*{margin: 0px;}
+
+.caja1
+{    
+    background-color: rebeccapurple;
+    width: 150px;
+    height: 100px;
+    position: absolute; 
+    top: 200px;
+    left: 650px;
+}
+
+.cara
+
+{    
+    background-color:red;
+    width: 250px;
+    height: 250px;
+    border-radius: 300px;
+    position: relative; 
+    top: 345px;
+    left: 600px;
+}
+.caja2
+{    
+    background-color:rebeccapurple;
+    width: 250px;
+    height: 60px;
+    border-radius: 300px;
+    position: fixed; 
+    top: 300px;
+    left: 600px;
+}
+
+.ojo1
+{
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.ojo11
+{
+    background-color: black;
+    width: 40px;
+    height: 45px;
+    border-radius: 20px;
+    position: absolute;
+    top: 2px;
+    left: 5px;
+}
+.ojo2
+{
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+}
+.ojo12
+{
+    background-color: black;
+    width: 40px;
+    height: 45px;
+    border-radius: 20px;
+    position: absolute;
+    top: 2px;
+    left: 5px;
+}
+
+.naris
+{
+    background-color: green;
+    width: 90px;
+    height: 90px;
+    border-radius: 80px;
+    position: absolute;
+    top: 100px;
+    left: 80px;
+}
+.boca
+{
+    background-color: white;
+    width: 130px;
+    height: 40px;
+    border-radius: 20px;
+    position: absolute;
+    top: 180px;
+    left: 60px;
+}
+.boca2
+{
+    background-color: darkred;
+    width: 100px;
+    height: 35px;
+    border-radius: 50px;
+    position: absolute;
+    top: 2px;
+    left: 15px;
+}
+.moño
+{
+    background-color: yellowgreen;
+    width: 70px;
+    height: 70px;
+    border-radius: 60px;
+    position: relative;
+    top: 240px;
+    left: 100px;
+}
+
+.nombre
+{
+    position: fixed;
+    top: 400px;
+    left: 200px;    
+}
